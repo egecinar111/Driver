@@ -1,4 +1,0 @@
-echo "# Depo Adı" > README.md
-git add README.md
-git commit -m "İlk commit"
-git push
