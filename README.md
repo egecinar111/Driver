@@ -19,6 +19,7 @@ Bu depo, bilgisayar hakkında hiçbir şey bilmeyen birinin bile Windows 10 veya
    - Microsoft Update üzerinden en güncel sürücüleri bulur,
    - Uygun olanları yükler.
 7. İşlem tamamlandığında betik size sürücülerin başarıyla kurulup kurulmadığını ve yeniden başlatma gerekip gerekmediğini bildirir.
+8. Pencerede "Enter'a bas" uyarısını gördüğünüzde **Enter** tuşuna basarak pencereyi kapatabilirsiniz.
 
 > **Not:** Bazı sürücülerin yüklenmesi için bilgisayarınızı yeniden başlatmanız gerekebilir. Betik bunu açıkça belirtir.
 
